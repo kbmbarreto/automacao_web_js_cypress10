@@ -1,0 +1,22 @@
+{
+  "name": "aut_web_estapar_reserva",
+  "version": "1.0.0",
+  "description": "Automação de testes UI do sistema Estapar Reserva de vagas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbmbarreto/aut_web_estapar_reserva.git"
+  },
+  "author": "Kleber Barreto de Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbmbarreto/aut_web_estapar_reserva/issues"
+  },
+  "homepage": "https://github.com/kbmbarreto/aut_web_estapar_reserva#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}

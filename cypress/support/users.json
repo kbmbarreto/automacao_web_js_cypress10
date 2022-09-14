@@ -1,0 +1,10 @@
+{
+  "usuarioIncorreto": {
+    "usuario": "ronaldinhogaucho@r10.com",
+    "senha": "R10melhorqueNeymar"
+  },
+  "usuarioCorreto": {
+    "usuario": "test.primavera@gmail.com",
+    "senha": "senhaquenaoexiste"
+  }
+}
