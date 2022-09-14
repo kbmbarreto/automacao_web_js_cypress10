@@ -11,6 +11,7 @@
 Para rodar o projeto, utlize a IDE que você mais se identifique **(no meu caso, utilizo o Jetbrains WebStorm)**, em
 seguida, utilize os comandos abaixo para rodar os testes:
 
+`npx cypress open`: para rodar os testes no modo visual, abrindo a telinha do Cypress;<br>
 `npx cypress run`: para rodar os testes no navegador padrão do Cypress (Electron);<br>
 `npx cypress run -b edge`: para rodar os testes no navegador Edge, da Microsoft; <br>
 `npx cypress run -b firefox`: para rodar os testes no navegador Firefox, da Mozilla;<br>
@@ -19,7 +20,8 @@ seguida, utilize os comandos abaixo para rodar os testes:
 **Observação:**
 
 Caso deseje rodar os testes com qualquer navegador que não seja o Electron, deve,
-primeiramente, instalar tais navegadores.
+primeiramente, instalar os navegadores em questão. Outro ponto importante é a necessidade de rodar o comando `npm install` 
+para instalar as dependências e módulos do projeto.
 
 **Arquivos e diretórios:**
 
